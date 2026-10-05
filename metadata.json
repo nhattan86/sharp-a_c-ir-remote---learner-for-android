@@ -1,0 +1,6 @@
+{
+  "name": "sharp-a_c-ir-remote-&-learner-for-android",
+  "description": "Ứng dụng điều khiển và học lệnh hồng ngoại (IR) máy lạnh Sharp cho điện thoại Android với mô phỏng remote vật lý, giải mã xung 104-bit và xuất mã Android ConsumerIrManager.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
